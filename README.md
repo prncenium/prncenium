@@ -66,7 +66,7 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prncenium&theme=tokyonight" alt="prncenium's streak" />
+  <img src="https://streak-stats.demolab.com/?user=prncenium&theme=tokyonight&hide_border=false&v=2" alt="prncenium's streak" />
 </p>
 
 ### 📈 Contribution Graph
