@@ -19,6 +19,17 @@
 
 ---
 
+### 📂 Top Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[FinanceApp](https://github.com/prncenium/FinanceApp)** | MERN (MongoDB, Express, React, Node) | Full-stack personal finance tracker with budgeting and P2P money transfers. |
+| **[CrowdFunding App](https://github.com/prncenium/crowdFunding-website)** | React, Node.js, Firebase | A platform to create campaigns, donate to causes, and track funding progress. |
+| **[AI ChatBot](https://github.com/prncenium/General_WebApp_ChatBot)** | JavaScript, API | A general-purpose chatbot that can be easily integrated into web apps. |
+| **[Memory Game](https://github.com/prncenium/memory-games)** | React, Vite | An interactive memory matching game with score tracking. |
+
+---
+
 ### 🛠 Tech Stack
 
 **Frontend & Languages**
