@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Prince
+# Hi there! 🐈 I'm Prince
 
 ### 💫 About Me
 - 🚀 **Full Stack Developer** specializing in **MERN Stack**
