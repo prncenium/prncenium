@@ -10,6 +10,15 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=prncenium&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="prncenium trophies" />
+  </a>
+</p>
+
+---
+
 ### 🛠 Tech Stack
 
 **Frontend & Languages**
@@ -50,6 +59,33 @@
 ---
 
 ### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prncenium&show_icons=true&theme=tokyonight&rank_icon=github" alt="prncenium's stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prncenium&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prncenium&theme=tokyonight" alt="prncenium's streak" />
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prncenium&theme=tokyo-night" alt="prncenium's Activity Graph" />
+</p>
+
+---
+
+### 🌐 Connect With Me
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prncenium&show_icons=true&theme=tokyonight" alt="prncenium's stats" />
+<a href="mailto:princecsk666@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="princecsk666@gmail.com" /></a>
+<a href="https://linkedin.com/in/prince-kumar-9525a121b" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://github.com/prncenium" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+</p>
+
+### 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=prncenium&label=Profile%20Views&color=blue-violet)
+
+<p align="center">
+  <i>"Building solutions that create real impact, one commit at a time."</i>
 </p>
